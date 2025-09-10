@@ -1,0 +1,25 @@
+2025-09-08 15:44:26,566 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-09-08 15:44:26,573 - qdarkstyle - INFO - Found application patches to be applied.
+2025-09-08 15:45:51,802 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-09-08 15:45:51,810 - qdarkstyle - INFO - Found application patches to be applied.
+2025-09-08 15:45:52,226 - root - INFO - 初始化执行引擎...
+2025-09-08 15:45:52,227 - Execution Engine - INFO - 执行引擎初始化完成，将连接服务器: ws://localhost:8765
+2025-09-08 15:45:52,227 - Execution Engine - INFO - 信号处理器设置完成
+2025-09-08 15:45:52,227 - Execution Engine - INFO - 执行引擎已在后台线程中启动
+2025-09-08 15:45:52,227 - root - INFO - 执行引擎已启动并在后台运行
+2025-09-08 15:45:52,228 - Execution Engine - INFO - 正在连接服务器: ws://localhost:8765
+2025-09-08 15:45:56,301 - Execution Engine - ERROR - 连接服务器失败: [WinError 1225] 远程计算机拒绝网络连接。
+2025-09-08 15:45:56,301 - Execution Engine - ERROR - 执行引擎运行失败: [WinError 1225] 远程计算机拒绝网络连接。
+2025-09-08 15:47:01,369 - qdarkstyle - INFO - QSS file successfully loaded.
+2025-09-08 15:47:01,376 - qdarkstyle - INFO - Found application patches to be applied.
+2025-09-08 15:47:01,662 - root - INFO - 初始化执行引擎...
+2025-09-08 15:47:01,663 - Execution Engine - INFO - 执行引擎初始化完成，将连接服务器: ws://localhost:8765
+2025-09-08 15:47:01,663 - Execution Engine - INFO - 信号处理器设置完成
+2025-09-08 15:47:01,663 - Execution Engine - INFO - 执行引擎已在后台线程中启动
+2025-09-08 15:47:01,663 - root - INFO - 执行引擎已启动并在后台运行
+2025-09-08 15:47:01,663 - Execution Engine - INFO - 正在连接服务器: ws://localhost:8765
+2025-09-08 15:47:01,688 - Execution Engine - INFO - 服务器连接成功!
+2025-09-08 15:47:01,688 - Execution Engine - INFO - 开始监听服务器信号...
+2025-09-08 15:47:38,649 - Execution Engine - INFO - 接收到交易信号: {'action': 'BUY', 'symbol': '000001.SZ', 'price': 15.8, 'volume': 100, 'timestamp': '2025-09-08 14:30:00', 'strategy_id': 'test_strategy_001', 'signal_id': 'test_signal_001'}
+2025-09-08 15:47:38,649 - root - INFO - 处理交易信号: {'action': 'BUY', 'symbol': '000001.SZ', 'price': 15.8, 'volume': 100, 'timestamp': '2025-09-08 14:30:00', 'strategy_id': 'test_strategy_001', 'signal_id': 'test_signal_001'}
+2025-09-08 15:47:38,649 - root - INFO - 信号待执行: BUY 000001.SZ 100@$15.8
